@@ -1,6 +1,14 @@
+This is the map required for project 5.
 
-Hello gamers! We have a great game that is sure to keep you entertained. This Javascript based game will tickle your itch for the classic Frogger game!!! Making it to the water ensures vistory, and the game resets for your endless pleasure.
+The location that is pre loaded is Amalfi, Campania. A very beautiful place with many attractions to keep you busy.  
 
-Directions to play: left arrow moves left. Right arrow moves right. Up arrow moves up. Down arrow moves the character down.  Watch out for the bugs going different speeds, because if the player and bug collides the game resets. 
+The app starts with some of those places marked, with the blue ballon markers. 
 
-Go ahead and play as many times as you like it is on the house!!! Enjoy!!!
+Clicking on a location in the list will bring up map information if avaliable, so feel free to scroll though the list.
+
+
+The search bar was succesfully configured, so it is fully functional.  
+
+This project seemed easy intially, but it required a little more focus than I anticipated.  It was an excellent workout for my brain though. I still stumble my way through creating my functions, but it is becoming more routine for me.
+
+
